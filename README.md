@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-GoIT course
+https://rybaktheprophet.github.io/goit-markup-hw-01/
